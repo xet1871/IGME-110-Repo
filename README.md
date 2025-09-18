@@ -2,7 +2,7 @@
 
 ## Level 2 Header
 
---- Horizantal Rule
+--- Horizantal Rule ---
 
 1. Item One
 2. Item Two
